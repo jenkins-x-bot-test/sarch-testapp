@@ -1,6 +1,8 @@
 approvers:
 - jenkins-x-bot-test
 - agentgonzo
+- sarch-dev
 reviewers:
 - jenkins-x-bot-test
 - agentgonzo
+- sarch-dev
